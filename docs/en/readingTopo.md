@@ -1,91 +1,91 @@
 ## Chimney
-![](assets/Chimney.svg)
+![](../../assets/Chimney.svg)
 A vertical crevice in the rock which is more than the width of the body (> 60cm). Chimneys can be climbed by stemming or bridging
 
 ## Chockstone
-![](assets/Chockstone.svg)
+![](../../assets/Chockstone.svg)
 A large rock or stone wedged in a chimney or crack
 
 ## Crack
-![](assets/Crack.svg)
+![](../../assets/Crack.svg)
 A crevice that is smaller than a chimney, although at times the line between crevices and chimneys is blurred
 
 ## Gully
-![](assets/Gully.svg)
+![](../../assets/Gully.svg)
 A vertical recess surrounded by rocks
 
 ## Dihedral
-![](assets/Dihedral.svg)
+![](../../assets/Dihedral.svg)
 Two rock faces or slabs which converge in the shape of an open book, usually with an internal crack. Climbing dihedrals involves shifting pressure: alternating between stemming the legs and supporting with the arms
 
 ## Edge
-![](assets/Edge.svg)
+![](../../assets/Edge.svg)
 Usually small to very small horizontal ledges that make good hand and foot holds.
 
 ## Slabs
-![](assets/Slabs.svg)
+![](../../assets/Slabs.svg)
 Inclined rock with little structure. Friction is often used for climbing these
 
 ## Overhang
-![](assets/Overhang.svg)
+![](../../assets/Overhang.svg)
 Rock with an incline of more than 90 degrees that is therefore steeper than vertical. This requires arm strength, as climbing is exhausting
 
 ## Roof
-![](assets/Roof.svg)
+![](../../assets/Roof.svg)
 An almost horizontal overhang where climbing becomes more exhausting than on a vertical rock face
 
 ## Ramp
-![](assets/Ramp.svg)
+![](../../assets/Ramp.svg)
 Steeply rising ledge/sloping surface. Warning: Ramps can often remain damp after rain.
 
 ## Ledge
-![](assets/Ledge.svg)
+![](../../assets/Ledge.svg)
 : Horizontal pedestal on a rock face
 
 ## Pedestal, shoulder
-![](assets/Pedestal-Shoulder.svg)
+![](../../assets/Pedestal-Shoulder.svg)
 ## Cave / Hollow
-![](assets/Cave-Hollow.svg)
+![](../../assets/Cave-Hollow.svg)
 ## Water streaks
-![](assets/Water-Streaks.svg)
+![](../../assets/Water-Streaks.svg)
 Usually vertical erosion in limestone
 
 ## Boulders/ rubble
-![](assets/Boulders-Rubble.svg)
+![](../../assets/Boulders-Rubble.svg)
 ## Snowfield, firn field
-![](assets/SnowFirnField.svg)
+![](../../assets/SnowFirnField.svg)
 ## Cornice
-![](assets/Cornice.svg)
+![](../../assets/Cornice.svg)
 Heavily compacted, overhanging snow deposit on rock edges
 
 ## Mountain pine
-![](assets/MountainPine.svg)
+![](../../assets/MountainPine.svg)
 Sufficiently thick mountain pines can serve as intermediate belay points.
 
 ## Tree
-![](assets/Tree.svg)
+![](../../assets/Tree.svg)
 Sufficiently thick trees can be solid fixed points.
 
 ## Grass
-![](assets/Grass.svg)
+![](../../assets/Grass.svg)
 Warning: Steep grassy slopes are dangerous when wet
 
 ## Fixed wire rope
-![](assets/FixedWire.svg)
+![](../../assets/FixedWire.svg)
 ## Pendulum
-![](assets/Pendulum.svg)
+![](../../assets/Pendulum.svg)
 Climber must cross a rock passage swinging on a fixed rope
 
 ## Belay
-![](assets/Belay.svg)
+![](../../assets/Belay.svg)
 Securing point to which the lead climber or follower is secured by the fixed partner.
 
 ## Rappelling point
-![](assets/RappellingPoint.svg)
+![](../../assets/RappellingPoint.svg)
 Designated route for abseiling.
 
 ## Bivouac site
-![](assets/BivouacSite.svg)
+![](../../assets/BivouacSite.svg)
 ## Key spot
-![](assets/KeySpot.svg)
+![](../../assets/KeySpot.svg)
 Most difficult point on the climbing route
